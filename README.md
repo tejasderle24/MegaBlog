@@ -11,3 +11,22 @@ appwrite
 html-react-parser
 react-hook-form
 ```
+
+## .env file
+
+```
+VITE_APPWRITE_URL = " "
+VITE_APPWRITE_PROJECT_ID = ""
+VITE_APPWRITE_DATABASE_ID = ""
+VITE_APPWRITE_COLLECTION_ID = ""
+VITE_APPWRITE_BUCKET_ID = ""
+
+```
+
+
+
+
+
+
+
+> Note : Design_Struture.tldr ==> install `tldraw` Extension
